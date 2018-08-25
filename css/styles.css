@@ -1,7 +1,14 @@
+body {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
 .jumbotron {
     padding-top: 15px;
     padding-bottom: 25px;
-    background-color: #82170F;
-    color: #FAF5F2;
+    background-color: #EE4A41;
+    color: white;
 }
-  
+
+.jumbotron h2 {
+  color: yellow
+}
