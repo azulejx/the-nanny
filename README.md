@@ -6,7 +6,7 @@
 
 ## Description
 
-_A wonderfully coordinated style, matching one of The Nanny's most iconic outfits. Basic information on the character Fran Fine, to pique the reader's curiosity._
+_A wonderfully coordinated style, matching one of The Nanny's most iconic outfits. Basic information on the character Fran Fine, to pique the reader's curiosity. All information collected from various online websites or made up on the spot. Image not my own._
 
 ## Setup/Installation Requirements
 
